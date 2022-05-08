@@ -17,7 +17,8 @@ int main(int argc, char** argv)
 	}
 	printf("\n[+] Retrieved a handle to the device driver. Handle Value: 0x%p", h_driver);
 
-
+	printf("\n[-] At this point, I realized that the AMDPowerProfiler.sys device driver does not have any easy-to-call wrmsr instructions.\n[-] I want a fun, easy side-project, not a new main project.");
+	unused = getchar();
 
 	return 0;
 }
