@@ -3,3 +3,5 @@
 
 # Oh.
  I found out that there are no blatantly-obvious wrmsr instructions that are trivial to call. I do not want this to be a new, "main project."
+
+ I suppose I have something to fall back to if I ever need something to do.
